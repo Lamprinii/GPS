@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="this_is_your_speed">This is your speed:</string>
+    <string name="gps_on">GPS ON</string>
+    <string name="gps_off">GPS OFF</string>
+    <string name="no_speed">No Speed</string>
+    <string name="no_accelaration">No Accelaration</string>
+    <string name="speed_app">Speed App</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="this_is_your_accelaration">This is your accelaration:</string>
+</resources>
